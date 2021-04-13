@@ -1,0 +1,1 @@
+python -c "import boto.utils;print(boto.utils.get_instance_metadata())"
